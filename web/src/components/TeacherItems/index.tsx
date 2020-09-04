@@ -9,7 +9,7 @@
    return (
     <article className="teacher-item">
         <header>
-        <img src="https://avatars0.githubusercontent.com/u/49811931?s=460&u=b4766415071056c10ca199d5cb4ac5f33287dddc&v=4" alt="Profile image"/>
+        <img src="https://avatars0.githubusercontent.com/u/49811931?s=460&u=b4766415071056c10ca199d5cb4ac5f33287dddc&v=4" alt="Profile"/>
         <div>
             <strong>Maiquel P</strong>
             <span>Tech</span>
