@@ -3,6 +3,7 @@ import React from 'react';
 import PageHeader from '../../components/PageHeader';
 import TeacherItems from '../../components/TeacherItems';
 import Input from '../../components/Input';
+import Select from '../../components/Select';
 
 import './styles.css';
 
@@ -11,8 +12,20 @@ function TeacherList() {
     <div id="page-teacher-list" className="container">
        <PageHeader title="These are the avaiable Proffys...">
         <form id="search-teachers">
-          <Input name="subject" label="Subject" />
-          <Input name="week-day" label="Week Day" />
+          <Select name="subject" label="Subject" options={[
+             { value: 'math', label: 'Math'},
+             { value: 'portuguese', label: 'Portuguese'},
+             { value: 'english', label: 'English'}
+            ]} />
+          <Select name="week-day" label="Week Day"options={[
+            { value: '1', label: 'Monday'},
+            { value: '2', label: 'Tuesday'},
+            { value: '3', label: 'Wednesday'},
+            { value: '4', label: 'Thursday'},
+            { value: '5', label: 'Friday'},
+            { value: '6', label: 'Saturday'},
+            { value: '0', label: 'Sunday'}
+          ]} />
           <Input type="time" name="time" label="Time" />
         </form>
       </PageHeader>
