@@ -3,5 +3,6 @@
 # dependencies
 /web/node_modules
 /server/node_modules
+/mobile/node_modules
 
 
