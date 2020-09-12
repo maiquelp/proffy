@@ -28,8 +28,8 @@
 <p align="center">
   <a href="#bookmark-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-tools">Tools</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#boom-installation">Installation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#wrench-tools">Tools</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#package-installation">Installation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
 </strong>
@@ -55,7 +55,7 @@
 
 <br>
 
-## :rocket: Tools
+## :wrench: Tools
 
 - **[VisualStudio Code](https://code.visualstudio.com/)**
 - **[Insomnia](https://insomnia.rest/)**
@@ -64,9 +64,9 @@
 
 <br>
 
-## :boom: Installation
+## :package: Installation
 
-### **Prerequisites**
+### :heavy_check_mark: **Prerequisites**
 
 - The following software must be installed:
   
@@ -78,7 +78,7 @@
 
 <br>
   
-### **cloning the repository**
+### **Cloning the repository**
 
 ```sh
   $ git clone https://github.com/maiquelp/proffy.git
@@ -88,7 +88,7 @@
 
 ### **Running the applications**
 
-- API
+- :package: API
 
 ```sh
   $ cd server
@@ -100,7 +100,7 @@
   $ yarn start # or npm start
 ```
 
-- Web app
+- :computer: Web app
 
 ```sh
   $ cd web
@@ -110,7 +110,7 @@
   $ yarn start # or npm start
 ```
 
-- Mobile app
+- :iphone: Mobile app
 
 ```sh
   $ cd mobile
