@@ -29,7 +29,7 @@ function TeacherList() {
 
   return (
     <div id="page-teacher-list" className="container">
-       <PageHeader title="These are the avaiable Proffys...">
+       <PageHeader title="These are the available Proffys...">
         <form id="search-teachers" onSubmit={searchTeachers}>
           <Select name="subject" label="Subject" value={subject} onChange={e => setSubject(e.target.value)} 
             options={[

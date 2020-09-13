@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="#bookmark-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#wrench-tools">Tools</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#package-installation">Installation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
@@ -35,13 +35,17 @@
 </strong>
 <br>
 
+<p align="center">
+    <img alt="Screens" src=".github/screens.png" />
+</p>
+
 ## :bookmark: About
 
-**Proffy** is a platform to aproach students and teachers. The teacher interested in give lessons make a subscription informing his area of knoledge, avaiability and contact number. Then the student is able to find a teacher searching in the platform. This project was implemented during the **Next Level Week #2** of **[Rocketseat](https://rocketseat.com.br/)**.
+**Proffy** is a platform to approach students and teachers. The teacher interested in give lessons make a subscription informing his area of knowledge, availability and contact number. Then the student is able to find a teacher searching in the platform. This project was implemented during the **Next Level Week #2** of **[Rocketseat](https://rocketseat.com.br/)**.
 
 <br>
 
-## :rocket: Technologies
+## :computer: Technologies
 
 -  **[Typescript](https://www.typescriptlang.org/)**
 -  **[Node.js](https://nodejs.org/)**
@@ -68,7 +72,7 @@
 
 ### :heavy_check_mark: **Prerequisites**
 
-- The following software must be installed:
+The following software must be installed:
   
   - **[Node.js](https://nodejs.org/en/)**
   - **[Git](https://git-scm.com/)**
@@ -78,7 +82,7 @@
 
 <br>
   
-### **Cloning the repository**
+### :arrow_down: **Cloning the repository**
 
 ```sh
   $ git clone https://github.com/maiquelp/proffy.git
@@ -86,7 +90,7 @@
 
 <br>
 
-### **Running the applications**
+### :arrow_forward:	**Running the applications**
 
 - :package: API
 
@@ -116,7 +120,7 @@
   $ cd mobile
   # Dependencies install.
   $ yarn # or npm install
-  # Runnig mobile app
+  # Running mobile app
   $ yarn start # or npm start
 ```
 
