@@ -4,7 +4,7 @@
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/maiquelp/proffy?color=%238257e5">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/maiquelp/proffy?color=%238257e5">
-  <img alt="Project license" src="https://img.shields.io/github/license/maiquelp/proffy?color=8257e5">
+  <img alt="Project license" src="https://img.shields.io/github/license/maiquelp/proffy?color=%238257e5">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/maiquelp/proffy?color=774DD6">
   <a href="https://github.com/maiquelp/proffy/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/maiquelp/proffy?color=%238257e5">
